@@ -3,8 +3,8 @@ def insert():
     mydb = app.connection.connect()
     cursor = mydb.cursor()
     
-    B_no = int(input('Item No: -> '))
-    B_name = input('Item Name: -> ')
+    B_no = int(input('B_No: -> '))
+    B_name = input('Name: -> ')
     B_address = input('Address: -> ')
     ph_No = input('Ph No: -> ')
     email = input('Email: -> ')
