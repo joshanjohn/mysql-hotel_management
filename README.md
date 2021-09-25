@@ -29,3 +29,6 @@ The objective of this project is to let the students apply the programming knowl
 # SOURCE  CODE
 We have divided the codes into files as modules For every operation in the Table menu and booking .we keep a good track of our codes and for their reusability. Grouping related codes into a module makes the code easier to understand and use.
 To run the entire program, open the index.py file.
+![Blank diagram](https://user-images.githubusercontent.com/54502617/134782941-b4971f6a-f0f6-448d-b967-fd1d19cb0652.png)
+
+
